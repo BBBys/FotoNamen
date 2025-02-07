@@ -34,6 +34,6 @@ using System;
 // Sie können alle Werte angeben oder die standardmäßigen Build- und Revisionsnummern 
 // übernehmen, indem Sie "*" eingeben:
 // [assembly: AssemblyVersion("1.0.*")]
-[assembly: AssemblyVersion("1.5.4.31")]
-[assembly: AssemblyFileVersion("1.5.4.31")]
+[assembly: AssemblyVersion("1.5.4.33")]
+[assembly: AssemblyFileVersion("1.5.4.33")]
 [assembly: NeutralResourcesLanguageAttribute("de")]

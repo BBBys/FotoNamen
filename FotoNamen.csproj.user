@@ -3,7 +3,7 @@
   <PropertyGroup>
     <PublishUrlHistory>d:\publish\FotoNamen\|C:\Users\Borys\OneDrive\publish\FotoNamen\|C:\Users\Borys\OneDrive\publish\|D:\publish\FotoNamen\|ftp://login.hrz.uni-kassel.de/home/WWW/homepages/borys/publish/FotoNamen/</PublishUrlHistory>
     <InstallUrlHistory>http://www.uni-kassel.de/~borys/publish/FotoNamen/</InstallUrlHistory>
-    <SupportUrlHistory>http://www.uni-kassel.de/~borys/publish/FotoNamen/</SupportUrlHistory>
+    <SupportUrlHistory>https://github.com/BBBys/FotoNamen/blob/main/README.md|http://www.uni-kassel.de/~borys/publish/FotoNamen/</SupportUrlHistory>
     <UpdateUrlHistory />
     <BootstrapperUrlHistory />
     <ErrorReportUrlHistory>http://www.uni-kassel.de/~borys/publish/FotoNamen/</ErrorReportUrlHistory>
