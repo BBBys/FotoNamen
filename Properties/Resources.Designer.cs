@@ -61,7 +61,7 @@ namespace FotoNamen.Properties {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die Foto-Namen aus EXIF-Datum / CR-Verschiebung ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die Foto-Namen aus EXIF-Datum ähnelt.
         /// </summary>
         internal static string Fenstertitel {
             get {

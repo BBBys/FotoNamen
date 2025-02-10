@@ -11,5 +11,11 @@
     <Setting Name="vorgegebenerName" Type="System.String" Scope="User">
       <Value Profile="(Default)">*</Value>
     </Setting>
+    <Setting Name="Sekunden" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="Zähl" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
   </Settings>
 </SettingsFile>

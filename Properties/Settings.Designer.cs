@@ -58,5 +58,29 @@ namespace FotoNamen.Properties {
                 this["vorgegebenerName"] = value;
             }
         }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("True")]
+        public bool Sekunden {
+            get {
+                return ((bool)(this["Sekunden"]));
+            }
+            set {
+                this["Sekunden"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("True")]
+        public bool Zähl {
+            get {
+                return ((bool)(this["Zähl"]));
+            }
+            set {
+                this["Zähl"] = value;
+            }
+        }
     }
 }

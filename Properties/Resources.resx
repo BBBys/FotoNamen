@@ -118,6 +118,6 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Fenstertitel" xml:space="preserve">
-    <value>Foto-Namen aus EXIF-Datum / CR-Verschiebung</value>
+    <value>Foto-Namen aus EXIF-Datum</value>
   </data>
 </root>

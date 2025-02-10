@@ -1,6 +1,7 @@
 # FotoNamen
 ## Umbenennen von Bilddateien nach Aufnahmedatum
 Die Dateien müssen die Endung *.jpg* und Datum und Uhrzeit im EXIF-Block haben.
+## Ablauf
 * Sicherung der Bilddateien erstellen! 
 > [!Warning]
 > Man kann nie wissen und ich übernehme keine Garantie!!
@@ -13,3 +14,6 @@ Die Dateien müssen die Endung *.jpg* und Datum und Uhrzeit im EXIF-Block haben.
 Wenn (bei Serienaufnahmen) mehrere Bilder in der gleichen Sekunde aufgenommen wurden wird das 00 am Ende hochgezählt
 > [!Warning]
 > Backup!! ich übernehme wirklich keine Garantie
+## Versionsverlauf
+V1.5.4 von Februar 2025
+Namen können auch ohne angehängte Sekunden generiert werden
